@@ -1,5 +1,7 @@
 ### Android app to show all synagogues in Melbounre
 
+https://github.com/alex217217/temples
+
 
 ## We support the following:
 1. Loads the map and moves the camera to Melboune.
